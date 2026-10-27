@@ -1,0 +1,8 @@
+model,cv_average_precision
+random_forest_tuned,0.8428839773375163
+random_forest,0.8383463405122851
+xgboost,0.8373472517890125
+xgboost_tuned,0.8362290979669377
+decision_tree,0.7010352617326553
+logistic_regression,0.4952172751712533
+dummy,0.03383333333333333

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Notebook runtime state
+.ipynb_checkpoints/
+
+# Local data and generated model binaries
+dataset/*.csv
+models/*
+!models/.gitkeep
+*.joblib
+*.pkl
+
+# Generated experiment state
+mlruns/
+
+# Local configuration
+.env
+.DS_Store

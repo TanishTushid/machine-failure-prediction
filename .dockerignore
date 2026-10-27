@@ -1,0 +1,15 @@
+.git
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ipynb_checkpoints
+dataset
+notebooks
+tests
+artifacts/eda
+artifacts/shap
+artifacts/*.png
+artifacts/*.csv
+mlruns
